@@ -1,1 +1,1 @@
-Open to new roles in systems, storage, or distributed infrastructure. [hello@nubskr.com](mailto:hello@nubskr.com)
+I'm open to new roles, if you are working on some of the hardest problems in systems, storage, or distributed infrastructure, I would love to hear from you ~ <a href="mailto:hello@nubskr.com">hello@nubskr.com</a>
